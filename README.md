@@ -1,6 +1,6 @@
 # LoginSignupAPI
 
-This is simple Login and Signup API using .NET core
+This is simple Login and Signup API using .NET core and Questions bulk saving API and get questions List based on Filter according to need 
 
 add your database configuration in connection string in 
 appsetting.json file
@@ -12,3 +12,5 @@ Database=Your Data Base name
 }
 
 you can test the API by passing parameters and body 
+
+
